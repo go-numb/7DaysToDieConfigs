@@ -1,9 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- 前提確認: XMLファイルは変数指定ファイルです -->
 <!-- - nameが変数名, 変数名に続くdata及びvalueが変数に登録されているデータ -->
 <!-- - valueがtrue/falseの場合，真偽判定．その他の文字列にするとバグる -->
-
-
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- PLAYER -->
 <!-- ZOMBIES -->
 <!-- TIMID ANIMALS -->
@@ -806,7 +804,7 @@
 		<property name="SoundFootstepModifier" value="Animals/Bear/bear_footstep"/>
 		<property name="AvatarController" value="AvatarZombie01Controller"/>
 		<property name="ModelType" value="Standard"/>
-		<property name="WalkType" value="1"/>
+		<property name="WalkType" value="4"/>
 		<property name="Mass" value="260"/>
 		<property name="PhysicsBody" value="zombieFemaleFat"/>
 		<property name="RootMotion" value="true"/>

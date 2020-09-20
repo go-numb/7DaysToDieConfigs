@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	# GameStageでのゾンビ湧き・強さの調整
+
+		// Config
+		当日の生存係数？
+		daysAliveChangeWhenKilled="2"
+
+		日数による難易度調整
+		difficultyBonus="1.2"
+
+		重み
+		startingWeight ="1"
+		わかんないや
+		diminishingReturns ="0.5"
+
+		拾得物の確率, 取得物フィールド保持数？,
+		lootBonusEvery = "12"
+		lootBonusMaxCount = "30"
+		lootBonusScale = "25"
+
+ -->
 <!--
 
 Game stage spawning: All game stage spawning starts with a "Spawner" which is a named object referenced in the code

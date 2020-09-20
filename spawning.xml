@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- 
+
+	# フィールドとゾンビグループとの紐付け
+
+ -->
+
 <!--
 	 biome
 	 maxcount: int - the sum of all spawned entities in the group may not exceed this number

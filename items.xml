@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+	# 各武器パラメータ
+
+	例） 石斧の修理を小石から錬鉄に変更する
+	<property name="RepairTools" value="resourceRockSmall"/>
+	を
+	<property name="RepairTools" value="resourceBone"/>
+
+ -->
 <!-- Forge weight: We have auto-scaling based on resources IF there is a recipe for the item.
 
 to do:

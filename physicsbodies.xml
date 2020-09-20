@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- 
+
+	# 体躯の各部品
+	初期定数
+
+ -->
 <bodies>
 	<body name="Player">
 		<collider>

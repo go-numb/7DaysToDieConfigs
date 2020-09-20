@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+
+	# 各グループの指定
+		- フィールドに指定されたグループ
+	# グループ内での各ゾンビ出現確率
+
+	例）通常時デモリッシャーを出現させたり，フェラル時の出現率をあげることができる
+
+ -->
 
 <entitygroups>
 	<entitygroup name="ZombiesAll">

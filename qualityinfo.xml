@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- 
+
+    # レアリティと表示色の指定
+
+ -->
 <qualityinfo>
   <!--Broken-->
 	<quality key="0" color="808080"/>
